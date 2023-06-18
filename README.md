@@ -2,15 +2,6 @@
 
 Welcome to the `.github` repository for My Organization! This repository contains the default community health files for our organization's repositories.
 
-## About
-
-In this repository, you will find the following files:
-
-- **CODE_OF_CONDUCT.md**: This file outlines our organization's code of conduct and expectations for behavior within our community.
-- **CONTRIBUTING.md**: This file provides guidelines and instructions for contributing to our organization's repositories.
-- **ISSUE_TEMPLATE**: This directory contains templates for creating consistent issue reports.
-- **PULL_REQUEST_TEMPLATE**: This directory contains templates for creating standardized pull requests.
-
 ## Code of Conduct
 
 We expect all members to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md). Please read and familiarize yourself with our guidelines to maintain a respectful and inclusive environment.
