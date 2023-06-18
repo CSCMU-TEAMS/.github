@@ -12,7 +12,7 @@ If you would like to contribute to our organization's repositories, please follo
 
 ## Issue Reporting
 
-To report an issue or a bug in one of our repositories, please use the issue template provided in the [ISSUE_TEMPLATE](./ISSUE_TEMPLATE) directory. The template will guide you through providing the necessary information to help us understand and address the issue effectively.
+To report an issue or a bug in one of our repositories, please use the issue template provided in the [ISSUE_TEMPLATE](./.github/ISSUE_TEMPLATE) directory. The template will guide you through providing the necessary information to help us understand and address the issue effectively.
 
 
 ## License
