@@ -1,6 +1,6 @@
 # Contributing to Chiang Mai University Computer Science Organization
 
-Thank you for your interest in contributing to the Chiang Mai University Computer Science Organization! We welcome contributions from all computer science students and enthusiasts. By contributing, you help us create a vibrant and collaborative environment for learning, sharing knowledge, and advancing computer science.
+Thank you for your interest in contributing to the Chiang Mai University Computer Science Organization! We welcome contributions from all computer science students and enthusiasts in the academic year 2022. By contributing, you help us create a vibrant and collaborative environment for learning, sharing knowledge, and advancing computer science.
 
 ## How to Contribute
 
