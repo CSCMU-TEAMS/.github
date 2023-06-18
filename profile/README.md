@@ -8,7 +8,8 @@ Our organization aims to provide a platform for computer science students in the
 
 ## Projects
 
-We have a variety of projects available within our organization that are specifically designed for computer science students in the academic year 2022. These projects cover various topics within the field of computer science, including software development, algorithms, data structures, web development, artificial intelligence, and more. Students are invited to contribute to these projects, collaborate with fellow members, and gain hands-on experience.
+We have a variety of projects available within our organization that are specifically designed for computer science students in the academic year 2022.
+Students are invited to contribute to these projects, collaborate with fellow members, and gain hands-on experience.
 
 ## Getting Started
 
