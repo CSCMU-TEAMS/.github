@@ -1,32 +1,40 @@
-# Chiang Mai University Computer Science Student Organization - Academic Year 2022
+# My Organization
 
-Welcome to the Chiang Mai University Computer Science Student Organization for the academic year 2022! This organization is dedicated to fostering collaboration, learning, and innovation among computer science students at Chiang Mai University.
+Welcome to the My Organization repository! This organization is dedicated to our studies and collaboration with our friends.
 
 ## About
 
-Our organization aims to provide a platform for computer science students in the academic year 2022 at Chiang Mai University to connect, share knowledge, and support each other. Whether you're a freshman or a senior, this community is open to all computer science students. We encourage participation and engagement from students who have a passion for computer science and a desire to enhance their skills.
+In this organization, we aim to create a space where we can work together, share knowledge, and collaborate on various projects related to our studies. Whether it's coding exercises, research papers, or study materials, we can all contribute and benefit from each other's expertise.
 
-## Projects
+## Repository Structure
 
-We have a variety of projects available within our organization that are specifically designed for computer science students in the academic year 2022. These projects cover various topics within the field of computer science, including software development, algorithms, data structures, web development, artificial intelligence, and more. Students are invited to contribute to these projects, collaborate with fellow members, and gain hands-on experience.
+Here's a brief overview of the repositories within this organization:
 
-## Getting Started
+- **[prerequisite tree](link-to-repo-1)**: Description.
+- **[cs-wiki101](link-to-repo-2)**: Description.
 
-To get started with our organization, follow these steps:
+Feel free to explore the repositories and contribute to any projects that interest you.
 
-1. Join our community by becoming a member of this organization on GitHub.
-2. Explore our projects repository to find projects that interest you and align with your academic year.
-3. Fork the repository of the project you'd like to contribute to.
-4. Make your desired changes, improvements, or additions to the project.
-5. Test your changes thoroughly and ensure they meet the project's requirements.
-6. Commit your changes and provide a clear and descriptive commit message.
-7. Push your changes to your forked repository.
-8. Open a pull request (PR) from your forked repository to the original project repository.
+## Discussions
 
-Please make sure to review our [Contribution Guidelines](https://github.com/CSCMU-65s/.github/blob/main/CONTRIBUTING.md) for detailed instructions on how to contribute to our projects.
+We encourage everyone to participate in discussions to foster collaboration and knowledge sharing within the organization. You can find ongoing discussions, ask questions, and share ideas by visiting the [Discussions]() tab within each repository.
+
+## Contributing
+
+We welcome contributions from all members of the organization. If you have any ideas, improvements, or bug fixes, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make the necessary changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request with a clear description of your changes.
+
+Once your pull request is submitted, we will review your changes and merge them if they align with the project's goals.
+
+## Communication
+
+For communication and collaboration, we recommend using an alternative platform (e.g., Discord, Microsoft Teams, or any other platform that works for your organization). Please join our designated communication platform to discuss ideas, ask questions, and get involved in ongoing discussions.
 
 ## Code of Conduct
 
-We expect all members to adhere to our [Code of Conduct](https://github.com/CSCMU-65s/.github/blob/main/CODE_OF_CONDUCT.md). As Chiang Mai University Computer Science students, we value respect, inclusivity, and collaboration. Please review our code of conduct to understand the expected behavior and guidelines for participation within our community.
-
-We are excited to have you join our community and contribute to the growth of the Chiang Mai University Computer Science Student Organization in the academic year 2022!
+We expect all members to adhere to our [Code of Conduct](). Please read and familiarize yourself with our guidelines to maintain a respectful and inclusive environment.
