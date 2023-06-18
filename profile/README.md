@@ -38,7 +38,3 @@ For communication and collaboration, we recommend using an alternative platform 
 ## Code of Conduct
 
 We expect all members to adhere to our [Code of Conduct](). Please read and familiarize yourself with our guidelines to maintain a respectful and inclusive environment.
-
-## License
-
-Unless otherwise specified, all repositories within this organization are licensed under the [MIT License](https://opensource.org/licenses/MIT).
