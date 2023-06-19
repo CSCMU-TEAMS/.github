@@ -1,6 +1,6 @@
-# My Organization
+# Chiang Mai University Computer Science Student Organization - Academic Year 2022
 
-Welcome to the My Organization repository! This organization is dedicated to our studies and collaboration with our friends.
+Welcome to the Chiang Mai University Computer Science Student Organization - Academic Year 2022 repository! This organization is dedicated to our studies and collaboration with our friends.
 
 ## About
 
