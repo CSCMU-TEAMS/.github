@@ -10,8 +10,8 @@ In this organization, we aim to create a space where we can work together, share
 
 Here's a brief overview of the repositories within this organization:
 
-- **[prerequisite tree](link-to-repo-1)**: Description.
-- **[cs-wiki101](link-to-repo-2)**: Description.
+- **[prerequisite tree](https://github.com/CSCMU-65s/prerequisite-tree)**: Tool designed to convert a spreadsheet of course data into a graphical representation of course prerequisites.
+- **[cs-wiki101](https://github.com/CSCMU-65s/cs-wiki)**: Optimize your workspace for CS study. Curated instructions, Enhance your CS study experience.
 
 Feel free to explore the repositories and contribute to any projects that interest you.
 
