@@ -17,7 +17,7 @@ Feel free to explore the repositories and contribute to any projects that intere
 
 ## Discussions
 
-We encourage everyone to participate in discussions to foster collaboration and knowledge sharing within the organization. You can find ongoing discussions, ask questions, and share ideas by visiting the [Discussions]() tab within each repository.
+We encourage everyone to participate in discussions to foster collaboration and knowledge sharing within the organization. You can find ongoing discussions, ask questions, and share ideas by visiting the `Discussions` tab within each repository.
 
 ## Communication
 
@@ -25,4 +25,4 @@ For communication and collaboration, we recommend using an alternative platform 
 
 ## Code of Conduct
 
-We expect all members to adhere to our [Code of Conduct](). Please read and familiarize yourself with our guidelines to maintain a respectful and inclusive environment.
+We expect all members to adhere to our [Code of Conduct](https://github.com/CSCMU-65s/.github/blob/main/CODE_OF_CONDUCT.md). Please read and familiarize yourself with our guidelines to maintain a respectful and inclusive environment.
