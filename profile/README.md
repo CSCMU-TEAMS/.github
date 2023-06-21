@@ -13,17 +13,6 @@ Students are invited to contribute to these projects, collaborate with fellow me
 
 ## Getting Started
 
-To get started with our organization, follow these steps:
-
-1. Join our community by becoming a member of this organization on GitHub.
-2. Explore our projects repository to find projects that interest you and align with your academic year.
-3. Fork the repository of the project you'd like to contribute to.
-4. Make your desired changes, improvements, or additions to the project.
-5. Test your changes thoroughly and ensure they meet the project's requirements.
-6. Commit your changes and provide a clear and descriptive commit message.
-7. Push your changes to your forked repository.
-8. Open a pull request (PR) from your forked repository to the original project repository.
-
 Please make sure to review our [Contribution Guidelines](https://github.com/CSCMU-65s/.github/blob/main/CONTRIBUTING.md) for detailed instructions on how to contribute to our projects.
 
 ## Code of Conduct
