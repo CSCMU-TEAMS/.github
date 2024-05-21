@@ -1,10 +1,4 @@
-# Chiang Mai University Computer Science Student Organization - Academic Year 2022
-
-Welcome to the Chiang Mai University Computer Science Student Organization for the academic year 2022! This organization is dedicated to fostering collaboration, learning, and innovation among computer science students at Chiang Mai University.
-
-## About
-
-Our organization aims to provide a platform for computer science students in the academic year 2022 at Chiang Mai University to connect, share knowledge, and support each other. Whether you're a freshman or a senior, this community is open to all computer science students. We encourage participation and engagement from students who have a passion for computer science and a desire to enhance their skills.
+# Chiang Mai University Computer Science Student Teams
 
 ## Projects
 
